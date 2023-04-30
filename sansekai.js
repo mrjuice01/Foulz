@@ -72,11 +72,11 @@ module.exports = sansekai = async (client, m, chatUpdate, store) => {
       switch (command) {
         case "help":
         case "menu":
-          m.reply(`*Whatsapp Bot OpenAI*
+          m.reply(`*BayMax Bot OpenAI*
             
 *(ChatGPT)*
 Cmd: ${prefix}ai 
-Tanyakan apa saja kepada AI. 
+Hello Im BayMax AI
 
 *(DALL-E)*
 Cmd: ${prefix}img
